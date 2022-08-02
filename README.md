@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Dmitrii 👋 
+
+Check out my:
+- 📝 [Android Articles @Medium](https://medium.com/@dmitriileonov)
+- 👨‍💻 [Study Notes & Gists @Dev.to](https://dev.to/leonov_dmitrii)
+- 🔁 [Twitter](https://twitter.com/leonov_dmitrii)
+
+### Contact me
+- 💬 [LinkedIn](https://www.linkedin.com/in/dmitrii-leonov/)
 
 <!--
 **leonovde/leonovde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
