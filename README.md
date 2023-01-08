@@ -2,7 +2,6 @@
 
 Check out my:
 - 📝 [Android Articles @Medium](https://medium.com/@dmitriileonov)
-- 👨‍💻 [Study Notes & Gists @Dev.to](https://dev.to/leonov_dmitrii)
 - 🔁 [Twitter](https://twitter.com/leonov_dmitrii)
 
 ### Contact me
